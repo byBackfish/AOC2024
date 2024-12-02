@@ -1,0 +1,1 @@
+C:\Users\Maik\Documents\AOC2024\02\target\debug\aoc01.exe: C:\Users\Maik\Documents\AOC2024\02\src\main.rs C:\Users\Maik\Documents\AOC2024\02\src\p1.rs C:\Users\Maik\Documents\AOC2024\02\src\p2.rs C:\Users\Maik\Documents\AOC2024\02\src\util.rs

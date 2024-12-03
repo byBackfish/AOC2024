@@ -8,9 +8,7 @@ pub fn p2() {
     let mut sum = 0;
 
     for row in split {
-        let is_safe = util::is_safe(&row);
-
-        if is_safe {
+        if util::is_safe(&row) {
             sum += 1;
         } else {
             for (i, _) in row.iter().enumerate() {
